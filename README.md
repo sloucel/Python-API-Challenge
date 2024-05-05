@@ -10,4 +10,14 @@ Module 6: Python APIs
         Lat vs Cloudiness
         Lat vs Wind Speed
     5. Sat May 4th, 7:45PM completed first linear regression using def function
+    6. Sat May 4th, 8:04PM completed all linear regression scatter plots for Northern and Southern Hemispheres:
+        Northern Hemisphere: Temperature vs. Latitude
+        Southern Hemisphere: Temperature vs. Latitude
+        Northern Hemisphere: Humidity vs. Latitude
+        Southern Hemisphere: Humidity vs. Latitude
+        Northern Hemisphere: Cloudiness vs. Latitude
+        Southern Hemisphere: Cloudiness vs. Latitude
+        Northern Hemisphere: Wind Speed vs. Latitude
+        Southern Hemisphere: Wind Speed vs. Latitude
+    7.
     
