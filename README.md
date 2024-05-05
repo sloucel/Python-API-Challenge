@@ -2,7 +2,7 @@
 Module 6: Python APIs
 # Timeline:
     1. Sat May 4th, ~3PM created repository in github
-    2. Sat May 4th, 4:22PM created base url for API retrieval and retrieved data for 581 Cities
+    2. Sat May 4th, 4:22PM created base url for API retrieval and retrieved data for 570 Cities
     3. Sat May 4th, 4:58PM went back and added "metric" to my api url to make scatter plots easier to read. 
     4. Sat May 4th, 6:18PM completed scatter plots for:
         Lat vs Temp
@@ -19,7 +19,8 @@ Module 6: Python APIs
         Southern Hemisphere: Cloudiness vs. Latitude
         Northern Hemisphere: Wind Speed vs. Latitude
         Southern Hemisphere: Wind Speed vs. Latitude
-    7.Sat May4th, 9:06PM added description for linear regression
+    7.Sat May 4th, 9:06PM added description for linear relationship
+    8.Sat May 4th, 10:19PM created map and deal_weather_df in VacationPy.ipynb
        
 # Linear Regression Analysis
     ## Lat vs Temp: 
