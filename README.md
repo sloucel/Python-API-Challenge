@@ -19,8 +19,9 @@ Module 6: Python APIs
         Southern Hemisphere: Cloudiness vs. Latitude
         Northern Hemisphere: Wind Speed vs. Latitude
         Southern Hemisphere: Wind Speed vs. Latitude
-    7.Sat May 4th, 9:06PM added description for linear relationship
-    8.Sat May 4th, 10:19PM created map and deal_weather_df in VacationPy.ipynb
+    7. Sat May 4th, 9:06PM added description for linear relationship
+    8. Sat May 4th, 10:19PM created map and deal_weather_df in VacationPy.ipynb
+    9. Sun May 5th, 11:2AM created hotel_df 
        
 # Linear Regression Analysis
     ## Lat vs Temp: 
